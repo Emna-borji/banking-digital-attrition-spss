@@ -1,0 +1,16 @@
+# SPSS Modeler
+*.str-
+*.cpf
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data lourde (le CSV nettoye fait ~17 Mo, on peut l'inclure ; décommenter si on préfère l'exclure)
+# nettoye
+# *.csv
+
+# IDE
+.vscode/
+.idea/
